@@ -947,7 +947,7 @@ paths:
                   meta:
                     type: object
                     properties: {}
-                  product_Full:
+                  data:
                     $ref: '#/components/schemas/product_Full'
             example-1:
               example:
@@ -1605,7 +1605,7 @@ paths:
                   meta:
                     type: object
                     properties: {}
-                  product_Full:
+                  data:
                     $ref: '#/components/schemas/product_Full'
             example-1:
               example:
@@ -28843,7 +28843,7 @@ components:
               meta:
                 type: object
                 properties: {}
-              product_Full:
+              data:
                 $ref: '#/components/schemas/product_Full'
         example-1:
           example:
